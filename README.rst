@@ -9,11 +9,15 @@ for hydrodynamic calculations.
 Key parameters of the inverted EoS
 ----------------------------------
 
-- :math:`T_c = 133.356` MeV
-- :math:`\mu_B = 400.0` MeV
-- :math:`\alpha_{12} = 90.0`
-- :math:`w = 4.25`
-- :math:`\rho = 1.0`
+.. math::
+
+   \begin{aligned}
+   T_c &= 133.356\,\mathrm{MeV} \\
+   \mu_B &= 400.0\,\mathrm{MeV} \\
+   \alpha_{12} &= 90.0 \\
+   w &= 4.25 \\
+   \rho &= 1.0
+   \end{aligned}
 
 Quick start
 -----------
