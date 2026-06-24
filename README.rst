@@ -8,9 +8,9 @@ The repository provides several EoS tables that include different locations of t
 
 The repository contains four different EoS parameterizations:
 
-- **Critical point at** μ<sub>B,CP</sub> = **400 MeV**
-- **Critical point at** μ<sub>B,CP</sub> = **500 MeV**
-- **Critical point at** μ<sub>B,CP</sub> = **600 MeV**
+- **Critical point at** μBCP = **400 MeV**
+- **Critical point at** μBCP = **500 MeV**
+- **Critical point at** μBCP = **600 MeV**
 - **Reference iEoS without a critical point (no CP)**
 
 These tables allow studies of the influence of the critical point location on hydrodynamic evolution and related observables.
