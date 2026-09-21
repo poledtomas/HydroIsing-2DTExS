@@ -13,7 +13,6 @@ The repository contains four different EoS parameterizations:
 - **Critical point at** μBCP = **400 MeV**
 - **Critical point at** μBCP = **500 MeV**
 - **Critical point at** μBCP = **600 MeV**
-- **Reference iEoS without a critical point (no CP)**
+- **Reference EoS without a critical point (no CP)**
 
-These tables allow studies of the influence of the critical point location on hydrodynamic evolution and related observables.
 
